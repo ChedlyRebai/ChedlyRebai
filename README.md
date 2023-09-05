@@ -2,7 +2,11 @@
 <div align="center" style="width: 100%; height: 100%;">
   <img height="" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" />
 </div>
-
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There+👀;Nice+to+meet+you!&center=true&size=30">
+  </a>
+</h1>
 
 
 <h3 align="center">A passionate fullstack developer from Tunisia</h3>
