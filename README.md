@@ -38,9 +38,5 @@
   <img src="https://streak-stats.demolab.com?user=ChedlyRebai&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-###
-
-###
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chedlyrebai&" alt="chedlyrebai" /></p>
 
 
