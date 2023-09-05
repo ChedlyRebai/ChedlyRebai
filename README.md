@@ -2,11 +2,7 @@
 <div align="center" style="width: 100%; height: 100%;">
   <img height="" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" />
 </div>
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hey,+There+👀;Nice+to+meet+you!&center=true&size=30">
-  </a>
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=24&pause=1000&color=FFF4F4&repeat=false&width=450&lines=Hello%2C+and+thank+you+for+visiting+;my+GitHub+portfolio!+I'm+Cjedly+Rebai%2C;and+I'm+passionate+about+technology+;and+software+development.;This+portfolio+is+a+showcase+of+my+work%2C+projects;and+contributions+in+the+world+;of+coding+and+development.)](https://git.io/typing-svg)
 
 
 <h3 align="center">A passionate fullstack developer from Tunisia</h3>
