@@ -1,10 +1,11 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=24&pause=1000&color=FFF4F4&repeat=false&width=450&lines=Hello%2C+and+thank+you+for+visiting+;my+GitHub+portfolio!+I'm+Cjedly+Rebai%2C;and+I'm+passionate+about+technology+;and+software+development.;This+portfolio+is+a+showcase+of+my+work%2C+projects;and+contributions+in+the+world+;of+coding+and+development.)](https://git.io/typing-svg)
-<h1 align="center">Hi 👋, I'm Chedly Rebai</h1>
+
+
 <div align="center" style="width: 100%; height: 100%;">
   <img height="" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" />
 </div>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Arial&weight=900&size=24&pause=1000&color=FFF4F4&repeat=false&width=450&lines=Hello%2C+and+thank+you+for+visiting+;my+GitHub+portfolio!+I'm+Cjedly+Rebai%2C;and+I'm+passionate+about+technology+;and+software+development.;This+portfolio+is+a+showcase+of+my+work%2C+projects;and+contributions+in+the+world+;of+coding+and+development." alt="Typing SVG" /></a>
+<h1 align="center">Hi 👋, I'm Chedly Rebai</h1>
+
 
 <h3 align="center">A passionate fullstack developer from Tunisia</h3>
 <img align="right" alt="image_profile" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966"> 
