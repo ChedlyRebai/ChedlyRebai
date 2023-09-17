@@ -14,9 +14,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **threads-clone**
+- 🔭 I’m currently working on **E-Commerce App (FLUTTER)**
 
-- 🌱 I’m currently learning **NEXT js**
+- 🌱 I’m currently learning **FLUTTER**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ChedlyRebai](https://github.com/ChedlyRebai)
 
