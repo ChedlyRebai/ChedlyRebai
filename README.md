@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **FLUTTER**
 
-- 👨‍💻 All of my projects are available at [https://github.com/ChedlyRebai](https://github.com/ChedlyRebai)
+- 👨‍💻 All of my projects are available at [https://github.com/ChedlyRebai?tab=repositories](https://github.com/ChedlyRebai?tab=repositories)
 
 - 💬 Ask me about **REACT JS , NEXT JS , TAILWINDCSS**
 
