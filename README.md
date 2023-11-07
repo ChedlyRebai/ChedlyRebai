@@ -1,9 +1,9 @@
 
-<h1 align="center">Hi 👋, I'm Chedly Rebai</h1>
+<!--<h1 align="center">Hi 👋, I'm Chedly Rebai</h1>-->
 
 ## 👋 Hello! 
 
-I'm Chedly Rebai, a software engineer with 6+ years of experience.  
+I'm Chedly Rebai,
 I specialize in full-stack development and have experience in web, I'm constantly learning and improving my skills to stay on top of the latest technologies. 
 
 Feel free to explore my GitHub repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/chedly-rebai-a22745223/). If you have any questions or would like to collaborate on a project, don't hesitate to reach out!
