@@ -62,7 +62,7 @@
 ![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&color=informational&logo=php)
 ![VSCode](https://img.shields.io/badge/Tool-VSCode-informational?style=flat&color=informational&logo=visualstudiocode)
 ![Next.js](https://img.shields.io/badge/Code-Next.js-informational?style=flat&color=informational&logo=next.js)
-![AngularJS](https://img.shields.io/badge/Code-AngularJS-informational?style=flat&color=informational&logo=angularjs)
+![Angular](https://img.shields.io/badge/Code-AngularJS-informational?style=flat&color=informational&logo=angularjs)
 ![Express](https://img.shields.io/badge/Code-Express-informational?style=flat&color=informational&logo=express)
 ![Spring](https://img.shields.io/badge/Code-Spring-informational?style=flat&color=informational&logo=spring)
 ![Oracle](https://img.shields.io/badge/Database-Oracle-informational?style=flat&color=informational&logo=oracle)
