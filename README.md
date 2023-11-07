@@ -1,6 +1,13 @@
 
 <h1 align="center">Hi 👋, I'm Chedly Rebai</h1>
 
+## 👋 Hello! 
+
+I'm Chedly Rebai, a software engineer with 6+ years of experience.  
+I specialize in full-stack development and have experience in web, I'm constantly learning and improving my skills to stay on top of the latest technologies. 
+
+Feel free to explore my GitHub repositories and connect with me on [LinkedIn](https://www.linkedin.com/in/chedly-rebai-a22745223/). If you have any questions or would like to collaborate on a project, don't hesitate to reach out!
+
 <!--<div align="center" style="width: 100%; height: 100%;">
   <img height="" src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" />
 </div>-->
