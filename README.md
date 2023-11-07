@@ -50,6 +50,32 @@
 ![](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational)
 ![](https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational&logo=node.js)
 ![](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
+
+![JavaScript](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&color=informational&logo=javascript)
+![React](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
+![TypeScript](https://img.shields.io/badge/Code-TypeScript-informational?style=flat&color=informational)
+![Node.js](https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational&logo=node.js)
+![Docker](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
+![Git](https://img.shields.io/badge/Tool-Git-informational?style=flat&color=informational&logo=git)
+![GitHub](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&color=informational&logo=github)
+![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&color=informational&logo=python)
+![HTML5](https://img.shields.io/badge/Code-HTML5-informational?style=flat&color=informational&logo=html5)
+![CSS3](https://img.shields.io/badge/Code-CSS3-informational?style=flat&color=informational&logo=css3)
+![MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&color=informational&logo=mysql)
+![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&color=informational&logo=mongodb)
+![npm](https://img.shields.io/badge/Tool-npm-informational?style=flat&color=informational&logo=npm)
+![PHP](https://img.shields.io/badge/Code-PHP-informational?style=flat&color=informational&logo=php)
+![VSCode](https://img.shields.io/badge/Tool-VSCode-informational?style=flat&color=informational&logo=visualstudiocode)
+![Next.js](https://img.shields.io/badge/Code-Next.js-informational?style=flat&color=informational&logo=next.js)
+![AngularJS](https://img.shields.io/badge/Code-AngularJS-informational?style=flat&color=informational&logo=angularjs)
+![Express](https://img.shields.io/badge/Code-Express-informational?style=flat&color=informational&logo=express)
+![Spring](https://img.shields.io/badge/Code-Spring-informational?style=flat&color=informational&logo=spring)
+![Oracle](https://img.shields.io/badge/Database-Oracle-informational?style=flat&color=informational&logo=oracle)
+![Java](https://img.shields.io/badge/Code-Java-informational?style=flat&color=informational&logo=java)
+![C](https://img.shields.io/badge/Code-C-informational?style=flat&color=informational&logo=c)
+![Django](https://img.shields.io/badge/Code-Django-informational?style=flat&color=informational&logo=django)
+![Linux](https://img.shields.io/badge/OS-Linux-informational?style=flat&color=informational&logo=linux)
+
 <!--
 <h3 align="left">Languages and Tools:</h3>
 
