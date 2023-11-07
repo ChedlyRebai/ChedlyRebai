@@ -25,6 +25,12 @@
 - 📫 How to reach me **chedly.rebai123@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+[![LinkedIn](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg)](https://www.linkedin.com/in/chedly-rebai-a22745223/)
+[![Facebook](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg)](https://www.facebook.com/profile.php?id=100004281018120)
+[![Instagram](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg)](https://www.instagram.com/chedly_rebai_/)
+[![Gmail](https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg)](mailto:chedly.rebai123@gmail.com)
+
+
 <p align="left">
 <div align="left">
   <a href="https://www.linkedin.com/in/chedly-rebai-a22745223/" target="_blank">
