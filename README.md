@@ -105,7 +105,7 @@
 <br/>
 <br/>
 
-[![Antonio's github stats](https://github-readme-stats.vercel.app/api?username=ChedlyRebai&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Chedly Rebai's github stats](https://github-readme-stats.vercel.app/api?username=ChedlyRebai&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 
