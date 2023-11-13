@@ -1,7 +1,7 @@
 
 <!--<h1 align="center">Hi 👋, I'm Chedly Rebai</h1>-->
 
-## 👋 Hello! 
+# 👋 Hello! 
 
 I'm Chedly Rebai,
 I specialize in full-stack development and have experience in web, I'm constantly learning and improving my skills to stay on top of the latest technologies. 
