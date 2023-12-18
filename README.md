@@ -69,7 +69,7 @@ Feel free to explore my GitHub repositories and connect with me on [LinkedIn](ht
 ![MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&color=informational&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&color=informational&logo=mongodb)
 ![Next.js](https://img.shields.io/badge/Code-Next.js-informational?style=flat&color=informational&logo=next.js)
-![Angular](https://img.shields.io/badge/Code-AngularJS-informational?style=flat&color=informational&logo=angularjs)
+![Angular](https://img.shields.io/badge/Code-Angular-informational?style=flat&color=informational&logo=angular)
 ![Express](https://img.shields.io/badge/Code-Express-informational?style=flat&color=informational&logo=express)
 ![Spring](https://img.shields.io/badge/Code-Spring-informational?style=flat&color=informational&logo=spring)
 
