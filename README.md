@@ -72,7 +72,6 @@ Feel free to explore my GitHub repositories and connect with me on [LinkedIn](ht
 ![Angular](https://img.shields.io/badge/Code-AngularJS-informational?style=flat&color=informational&logo=angularjs)
 ![Express](https://img.shields.io/badge/Code-Express-informational?style=flat&color=informational&logo=express)
 ![Spring](https://img.shields.io/badge/Code-Spring-informational?style=flat&color=informational&logo=spring)
-![Django](https://img.shields.io/badge/Code-Django-informational?style=flat&color=informational&logo=django)
 
 <!--
 <h3 align="left">Languages and Tools:</h3>
