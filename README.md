@@ -58,7 +58,7 @@ Feel free to explore my GitHub repositories and connect with me on [LinkedIn](ht
 
 
 ## Technologies & Tools
-
+![TailwindCss](https://img.shields.io/badge/Code-TAILWINDCSS-informational?style=flat&color=informational&logo=tailwindcss)
 ![React](https://img.shields.io/badge/Code-React-informational?style=flat&color=informational&logo=react)
 ![Node.js](https://img.shields.io/badge/Code-Node-informational?style=flat&color=informational&logo=node.js)
 ![Docker](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
