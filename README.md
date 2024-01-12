@@ -64,8 +64,6 @@ Feel free to explore my GitHub repositories and connect with me on [LinkedIn](ht
 ![Docker](https://img.shields.io/badge/Tool-Docker-informational?style=flat&color=warning&logo=docker)
 ![Git](https://img.shields.io/badge/Tool-Git-informational?style=flat&color=informational&logo=git)
 ![GitHub](https://img.shields.io/badge/Tool-GitHub-informational?style=flat&color=informational&logo=github)
-![HTML5](https://img.shields.io/badge/Code-HTML5-informational?style=flat&color=informational&logo=html5)
-![CSS3](https://img.shields.io/badge/Code-CSS3-informational?style=flat&color=informational&logo=css3)
 ![MySQL](https://img.shields.io/badge/Database-MySQL-informational?style=flat&color=informational&logo=mysql)
 ![MongoDB](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&color=informational&logo=mongodb)
 ![Next.js](https://img.shields.io/badge/Code-Next.js-informational?style=flat&color=informational&logo=next.js)
