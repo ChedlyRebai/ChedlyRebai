@@ -134,7 +134,7 @@ Feel free to explore my GitHub repositories and connect with me on [LinkedIn](ht
 <br/>
 <br/>
 
-[![Chedly Rebai's github stats](https://github-readme-stats.vercel.app/api?username=ChedlyRebai&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Chedly Rebai's github stats](https://github-readme-stats.vercel.app/api?username=ChedlyRebai&theme=dark&count_private=true)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
 
